@@ -1,0 +1,7 @@
+{
+    "stdin_list":[
+                "python",
+                "print(\"%k times hello,world!\")",
+                "exit()"
+            ]
+}
